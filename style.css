@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #222;
+    width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #d62828;
+}
+
+h2 {
+    color: #003049;
+    border-bottom: 2px solid #d62828;
+}
+
+.slogan {
+    text-align: center;
+    font-style: italic;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+a {
+    color: #d62828;
+}
+
+footer {
+    text-align: center;
+    color: gray;
+    margin-top: 30px;
+}
